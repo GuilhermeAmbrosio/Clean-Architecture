@@ -1,4 +1,4 @@
-package br.com.guilherme;
+package br.com.guilherme.escola.dominio.aluno;
 
 public class Cpf {
     private String numero;

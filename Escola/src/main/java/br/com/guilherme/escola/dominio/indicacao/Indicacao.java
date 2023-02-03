@@ -1,4 +1,6 @@
-package br.com.guilherme;
+package br.com.guilherme.escola.dominio.indicacao;
+
+import br.com.guilherme.escola.dominio.aluno.Aluno;
 
 import java.time.Instant;
 

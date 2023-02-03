@@ -1,4 +1,6 @@
-package br.com.guilherme;
+package br.com.guilherme.escola.dominio.aluno;
+
+import br.com.guilherme.escola.dominio.indicacao.Indicacao;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -21,16 +23,16 @@ public class Aluno {
         this.telefones.add(new Telefone(ddd, telefone));
     }
 
-    public Cpf getCpf() {
-        return cpf;
+    public String getCpf() {
+        return cpf.getNumero();
     }
 
     public String getNome() {
         return nome;
     }
 
-    public Email getEmail() {
-        return email;
+    public String getEmail() {
+        return email.getEndereco();
     }
 
     public List<Telefone> getTelefones() {
