@@ -1,6 +1,6 @@
 package br.com.guilherme.escola.gamificacao.infraestrutura.selo;
 
-import br.com.guilherme.escola.academico.dominio.aluno.Cpf;
+import br.com.guilherme.escola.shared.dominio.Cpf;
 import br.com.guilherme.escola.gamificacao.dominio.selo.RepositorioDeSelos;
 import br.com.guilherme.escola.gamificacao.dominio.selo.Selo;
 

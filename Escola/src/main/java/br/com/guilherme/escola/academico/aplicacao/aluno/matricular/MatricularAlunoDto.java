@@ -1,7 +1,7 @@
 package br.com.guilherme.escola.academico.aplicacao.aluno.matricular;
 
 import br.com.guilherme.escola.academico.dominio.aluno.Aluno;
-import br.com.guilherme.escola.academico.dominio.aluno.Cpf;
+import br.com.guilherme.escola.shared.dominio.Cpf;
 import br.com.guilherme.escola.academico.dominio.aluno.Email;
 
 public class MatricularAlunoDto {

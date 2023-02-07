@@ -1,9 +1,6 @@
 package br.com.guilherme.escola.academico.dominio.aluno;
 
-import br.com.guilherme.escola.academico.dominio.aluno.Aluno;
-import br.com.guilherme.escola.academico.dominio.aluno.Cpf;
-import br.com.guilherme.escola.academico.dominio.aluno.Email;
-import br.com.guilherme.escola.academico.dominio.aluno.Telefone;
+import br.com.guilherme.escola.shared.dominio.Cpf;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

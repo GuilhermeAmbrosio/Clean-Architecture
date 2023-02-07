@@ -2,7 +2,7 @@ package br.com.guilherme.escola.academico.aplicacao.aluno.matricular;
 
 import br.com.guilherme.escola.academico.dominio.aluno.Aluno;
 import br.com.guilherme.escola.academico.dominio.aluno.RepositorioDeAlunos;
-import br.com.guilherme.escola.academico.dominio.PublicadorDeEventos;
+import br.com.guilherme.escola.shared.dominio.evento.PublicadorDeEventos;
 import br.com.guilherme.escola.academico.dominio.aluno.AlunoMatriculado;
 
 public class MatricularAluno {

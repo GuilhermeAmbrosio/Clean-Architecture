@@ -1,5 +1,7 @@
 package br.com.guilherme.escola.academico.dominio.aluno;
 
+import br.com.guilherme.escola.shared.dominio.Cpf;
+
 import java.util.List;
 
 public interface RepositorioDeAlunos {

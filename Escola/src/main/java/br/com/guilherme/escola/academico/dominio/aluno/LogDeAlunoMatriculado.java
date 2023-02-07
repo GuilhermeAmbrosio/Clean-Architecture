@@ -1,8 +1,8 @@
 package br.com.guilherme.escola.academico.dominio.aluno;
 
 
-import br.com.guilherme.escola.academico.dominio.Evento;
-import br.com.guilherme.escola.academico.dominio.Ouvinte;
+import br.com.guilherme.escola.shared.dominio.evento.Evento;
+import br.com.guilherme.escola.shared.dominio.evento.Ouvinte;
 
 import java.time.format.DateTimeFormatter;
 

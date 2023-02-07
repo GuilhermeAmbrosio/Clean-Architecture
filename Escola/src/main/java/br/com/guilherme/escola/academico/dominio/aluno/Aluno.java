@@ -1,6 +1,7 @@
 package br.com.guilherme.escola.academico.dominio.aluno;
 
 import br.com.guilherme.escola.academico.dominio.indicacao.Indicacao;
+import br.com.guilherme.escola.shared.dominio.Cpf;
 
 import java.util.ArrayList;
 import java.util.List;

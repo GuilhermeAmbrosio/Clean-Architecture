@@ -2,6 +2,7 @@ package br.com.guilherme.escola.academico.infraestrutura.aluno;
 
 import br.com.guilherme.escola.academico.dominio.aluno.*;
 import br.com.guilherme.escola.dominio.aluno.*;
+import br.com.guilherme.escola.shared.dominio.Cpf;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

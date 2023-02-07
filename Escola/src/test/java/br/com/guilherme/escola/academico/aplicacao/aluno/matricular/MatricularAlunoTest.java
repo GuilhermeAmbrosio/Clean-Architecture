@@ -1,10 +1,8 @@
 package br.com.guilherme.escola.academico.aplicacao.aluno.matricular;
 
-import br.com.guilherme.escola.academico.aplicacao.aluno.matricular.MatricularAluno;
-import br.com.guilherme.escola.academico.aplicacao.aluno.matricular.MatricularAlunoDto;
-import br.com.guilherme.escola.academico.dominio.PublicadorDeEventos;
+import br.com.guilherme.escola.shared.dominio.evento.PublicadorDeEventos;
 import br.com.guilherme.escola.academico.dominio.aluno.Aluno;
-import br.com.guilherme.escola.academico.dominio.aluno.Cpf;
+import br.com.guilherme.escola.shared.dominio.Cpf;
 import br.com.guilherme.escola.academico.infraestrutura.aluno.RepositorioDeAlunosEmMemoria;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
